@@ -14,7 +14,7 @@
 
 <!--***** START Printer 2 Variables from XML file URL OPTIONAL   *********************-->
 
-<InstallVar name="ipaddress2">10.0.0.201</InstallVar>
+<InstallVar name="ipaddress2">10.0.0.202</InstallVar>
 <InstallVar name="Location2">Office</InstallVar>
 <InstallVar name="PPDModel2">C360i</InstallVar>
 <InstallVar name="PrinterNamebw2">KM2_BW</InstallVar>
