@@ -2,7 +2,7 @@
 <!--***** START Printer 1 Variables from XML file URL   ******-->
 
 <InstallVariables>
-<InstallVar name="ipaddress1">10.0.0.200</InstallVar>
+<InstallVar name="ipaddress1">10.0.0.201</InstallVar>
 <InstallVar name="Location1">HomeOffice</InstallVar>
 <InstallVar name="PPDModel1">C550i</InstallVar>
 <InstallVar name="PrinterNamebw1">KM_BW</InstallVar>
